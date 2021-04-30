@@ -15,7 +15,7 @@
 
 - 💻 Tenho uma enorme vontade de ensinar ao mesmo tempo que aprendo.
 - 🌱 Estou em constante evolução! 
-- 🤔 Meus interesses estão em tecnologia: base sólida e tendências no back-end._
+- 🤔 Meus interesses estão em tecnologia: base sólida e tendências no back-end.
 - 💼 Estou concluindo Análise e Desenvolvimento de Sistemas e amo bootcamps!
 - 💬 Pergunte-me sua dúvida e eu te ajudarei.
 - 📫 Se quiser entrar em contato me envie um [E-mail](mailto:Contato@valdeircamargo.com)
