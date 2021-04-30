@@ -24,14 +24,14 @@
 
 **Linguagens e Stacks:**  
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-vertical.svg"></code>
 <code><img width="8%"  src="https://www.vectorlogo.zone/logos/php/php-horizontal.svg"></code>
 <BR />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
 <br />
 <br />
