@@ -34,6 +34,30 @@
     <a href="https://www.linkedin.com/in/camargovf" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
   
+  ----
+<br>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Algumas de minhas stacks... 
+
+```javascript
+const camargovf = {
+    pronome: "Ele",
+    code: ["Javascript", "Java"],
+    pergunteMeSobre: ["Tecnologia", "Senhor dos Aneis", "Harry Potter"],
+    stacks: {
+        backEnd: ["Springboot", "Nodejs"],
+        devOps: ["Heroku", "Docker🐳"],
+        databases: ["Mongodb", "MySql", "Sqlite", "Postgresql"],
+        misc: ["nodejs", "angular", "hibernate", "jpa", "sql", "swagger","jwt/oauth"]
+    },
+    focoAtual: "Java",
+    funPiada: "O que o programador java foi fazer no ensino médio? R: Revisitar a classe..."
+};
+```
+<br>
+
+----
+<br>
   
 <div align="left">
   <a href="https://github.com/camargovf">
