@@ -11,8 +11,8 @@
 
 - 💻 Tenho uma enorme vontade de ensinar ao mesmo tempo que aprendo.
 - 🤔 Meus interesses estão em tecnologia: base sólida e tendências no back-end.
-- 💼 Estou concluindo Análise e Desenvolvimento de Sistemas e amo bootcamps!
-- 💬 Pergunte-me sua dúvida e eu te ajudarei.
+- 💼 Tenho formação acadêmica em Análise e Desenvolvimento de Software.
+- 💬 Vamos conversar sobre tecnologia!
 
 ## Linguagens e Stacks:
 <div style="display: inline_block"><br>
@@ -42,10 +42,10 @@
 </div>
  
   
-Contato
+
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Camargovf)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/camargovf/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:contato@valdeircamargo.com)
   
 ![Camargovf](https://github.com/Camargovf/Camargovf/blob/main/IMG_1202_Easy-Resize.com.jpg?raw=true)
-  <br>⭐️ From Valdeir Camargo 
+  <br>[⭐️ From Valdeir Camargo](https://www.linkedin.com/in/camargovf) 
