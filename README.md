@@ -66,10 +66,11 @@ const camargovf = {
 </div>
  
   
-
+<!--
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Camargovf)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/camargovf/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:contato@valdeircamargo.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:contato@valdeircamargo.com) -->
+     
   
 ![Camargovf](https://github.com/Camargovf/Camargovf/blob/main/IMG_1202_Easy-Resize.com.jpg?raw=true)
   <br>[⭐️ From Valdeir Camargo](https://www.linkedin.com/in/camargovf) 
