@@ -71,6 +71,7 @@ const camargovf = {
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/camargovf/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:contato@valdeircamargo.com) -->
      
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
 ![Camargovf](https://github.com/Camargovf/Camargovf/blob/main/IMG_1202_Easy-Resize.com.jpg?raw=true)
-  <br>[⭐️ From Valdeir Camargo](https://www.linkedin.com/in/camargovf) 
+<br>[⭐️ From Valdeir Camargo](https://www.linkedin.com/in/camargovf) 
