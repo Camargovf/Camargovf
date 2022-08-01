@@ -1,5 +1,5 @@
 ### Meu nome é **Valdeir Camargo** 
-<p> Back-End developer graduado em Análise e Desenvolvimento de Sistemas pela Uninter.</p>
+<p> Back-End developer graduado em Análise e Desenvolvimento de Software.</p>
 
 
 
@@ -10,7 +10,7 @@
 **Sobre mim:**
 
 - 💻 Tenho uma enorme vontade de ensinar ao mesmo tempo que aprendo.
-- 🤔 Meus interesses estão em tecnologia: base sólida e tendências no back-end.
+- 🤔 Meus interesses estão em tecnologia: base sólida e tendências no back-end/cultura DevOps.
 - 💼 Tenho formação acadêmica em Análise e Desenvolvimento de Software.
 - 💬 Vamos conversar sobre tecnologia!
 
