@@ -1,5 +1,5 @@
 ### Meu nome é **Valdeir Camargo** 
-<p> Back-End developer graduado em Análise e Desenvolvimento de Software.</p>
+<p> Back-End developer graduado em Análise e Desenvolvimento de Software e especialização em Dispositivos Móveis.</p>
 
 
 
