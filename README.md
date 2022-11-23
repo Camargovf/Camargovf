@@ -1,5 +1,6 @@
 ### Welcome To The Jungle! ###
 ### ** Valdeir Camargo - BackEnd Developer ** 
+Para visualizar minha stack e demais redes: 
 [Stack](https://stackshare.io/camargovf/my-stack) + [Redes](https://linktr.ee/camargovf)
 
 
