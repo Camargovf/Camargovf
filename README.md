@@ -1,5 +1,7 @@
-### Meu nome é **Valdeir Camargo** 
-<p> Back-End developer graduado em Análise e Desenvolvimento de Software e especialização em Dispositivos Móveis.</p>
+### Welcome To The Jungle! ###
+### ** Valdeir Camargo BackEnd Developer ** 
+[Stack](https://stackshare.io/camargovf/my-stack) + [Redes](https://linktr.ee/camargovf)
+
 
 
 
@@ -10,10 +12,14 @@
 **Sobre mim:**
 
 - 💻 Tenho uma enorme vontade de ensinar ao mesmo tempo que aprendo.
-- 🤔 Meus interesses estão em tecnologia: base sólida e tendências no back-end/cultura DevOps.
-- 💼 Tenho formação acadêmica em Análise e Desenvolvimento de Software.
+- 🤔 Meus interesses estão em tecnologia: base sólida e tendências no BackEnd/DevOps.
+- 💼 Tenho formação acadêmica em Análise e Desenvolvimento de Software e especialização em Dispositivos Móveis.
 - 💬 Vamos conversar sobre tecnologia!
 
+  <br>
+  <a href="https://linktr.ee/camargovf" target="_blank"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" target="_blank"></a>
+  </div>
+  
 ##
 
 ## Linguagens e Stacks:
@@ -33,10 +39,7 @@
   <a href="https://api.whatsapp.com/send?phone=5511959898872" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="mailto:contato@valdeircamargo.com" target="_blank"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/camargovf" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <br>
-  <a href="https://linktr.ee/camargovf" target="_blank"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" target="_blank"></a>
-  </div>
-  
+
   ----
 <br>
 
@@ -49,9 +52,8 @@ const camargovf = {
     pergunteMeSobre: ["Tecnologia", "Senhor dos Aneis", "Harry Potter"],
     stacks: {
         backEnd: ["Springboot", "Nodejs"],
-        devOps: ["Heroku", "Docker🐳"],
-        databases: ["Mongodb", "MySql", "Sqlite", "Postgresql"],
-        misc: ["nodejs", "angular", "hibernate", "jpa", "sql", "swagger","jwt/oauth"]
+        DevOps: ["Docker🐳", "Jenkins", "aws/gcp"],
+        utils: [ "miro", "teams", "slack", "trello", "kibana"],
     },
     focoAtual: "Java",
     funPiada: "O que o programador java foi fazer no ensino médio? R: Revisitar a classe..."
