@@ -14,7 +14,7 @@ Para visualizar minha stack e demais redes:
 
 - 💻 Tenho uma enorme vontade de ensinar ao mesmo tempo que aprendo.
 - 🤔 Meus interesses estão em tecnologia: base sólida e tendências no BackEnd/DevOps.
-- 💼 Tenho formação acadêmica em Análise e Desenvolvimento de Software e especialização em Dispositivos Móveis.
+- 💼 Tenho formação acadêmica em Análise e pós em Desenvolvimento de Software e especialização em Dispositivos Móveis, no momento minha segunda pós graduação é em Engenharia da Computação.
 - 💬 Vamos conversar sobre tecnologia!
 
   <br>
